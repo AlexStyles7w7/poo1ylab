@@ -4,13 +4,17 @@
 - Correo: luis.lvno2@gmail.com
 
 ## Actividad 1
-- _p01_HolaMundo
-Crear un "hola mundo"
+- _p01_HolaMundo:
+Crear un "hola mundo".
 
 ## Actividad 2
-- _p02_AreaCirculo
-Crear un programa que calcule el area de un circulo
+- _p02_AreaCirculo:
+Crear un programa que calcule el area de un circulo.
 
 ### Actividad 3
-- _p03_AreaTriangulo
-Crear un codigo que calcule el area de un triangulo
+- _p03_AreaTriangulo:
+Crear un codigo que calcule el area de un triangulo.
+
+## Actividad 4
+- _p04_PagaTrabajador:
+Crear un codigo que calcule la paga de un trabajador, disminuyendo los impuestos de raiz.
