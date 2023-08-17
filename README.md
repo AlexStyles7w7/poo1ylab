@@ -4,13 +4,13 @@
 - Correo: luis.lvno2@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
+- _p01_HolaMundo
+Crear un "hola mundo"
 
 ## Actividad 2
-- Programa 3
-- Programa 4
+- _p02_AreaCirculo
+Crear un programa que calcule el area de un circulo
 
 ### Actividad 3
-- Programa 5
-- Programa 6
+- _p03_AreaTriangulo
+Crear un codigo que calcule el area de un triangulo
