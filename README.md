@@ -7,7 +7,7 @@
 - _p01_HolaMundo:
 Crear un "hola mundo".
 
-## Actividad 2
+### Actividad 2
 - _p02_AreaCirculo:
 Crear un programa que calcule el area de un circulo.
 
