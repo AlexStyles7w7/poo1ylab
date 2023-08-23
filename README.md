@@ -17,7 +17,7 @@ Crear un codigo que calcule el area de un triangulo.
 Crear un codigo que calcule la paga de un trabajador, disminuyendo los impuestos de raiz.
 
 
-### Actividad 2
+## Actividad 2
 - _p05_OperacionesMatematicas:
 Programa que realiza operaciones matematicas.
 
@@ -33,7 +33,7 @@ Calcula las operaciones trigonometricas de un angulo en radianes.
 - _p09_DividirCifras:
 Divide un numero de 3 cifras en unidades, decenas y centenas.
 
-##Actividad 3 (practica)
+## Actividad 3 (practica)
 - _p10_HipotenusaTriangulo:
 Se desea calcular la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados.
 
