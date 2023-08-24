@@ -33,7 +33,7 @@ Calcula las operaciones trigonometricas de un angulo en radianes.
 - _p09_DividirCifras:
 Divide un numero de 3 cifras en unidades, decenas y centenas.
 
-## Actividad 3 (practica)
+## Actividad 3 (Practica 1)
 - _p10_HipotenusaTriangulo:
 Se desea calcular la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados.
 
@@ -45,3 +45,22 @@ Se desea convertir una temperatura de grados fahrenheit a grados celsius.
 
 - _p13_VolumenCilindro:
 Se desea calcular el volumen de un cilindro dado su radio y altura.
+
+- _p14_CalculoTiempo:
+Dada una cantidad en horas, calcular su equivalente en días, minutos y segundos.
+
+- _p15_ConvertirADolares:
+Dada una cantidad en pesos y la cotización del dólar, se desea obtener el equivalente en dólares.
+
+## Actividad 4
+- _p16_TrabajandoEnteros:
+Trabajando con enteros.
+
+- _p17_TrabajandoFlotantes:
+Trabajando con flotantes.
+
+- _p18_TrabajandoConstantes:
+Trabajando con constantes.
+
+- _p19_TrabajandoCaracteres:
+Trabajando con caracteres
