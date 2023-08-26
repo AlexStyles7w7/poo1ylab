@@ -33,11 +33,7 @@ Calcula las operaciones trigonometricas de un angulo en radianes.
 - _p09_DividirCifras:
 Divide un numero de 3 cifras en unidades, decenas y centenas.
 
-<<<<<<< HEAD
 ## Actividad 3 (Practica 1)
-=======
-## Actividad 3 (practica)
->>>>>>> 89a9dccabc8d93930c92cb391395cb18f12a25ad
 - _p10_HipotenusaTriangulo:
 Se desea calcular la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados.
 
@@ -68,3 +64,6 @@ Trabajando con constantes.
 
 - _p19_TrabajandoCaracteres:
 Trabajando con caracteres.
+
+- _p20_ConversionTipos:
+Conversion entre tipos de datos en Java.
