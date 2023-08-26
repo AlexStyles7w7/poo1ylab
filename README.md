@@ -55,7 +55,6 @@ Dada una cantidad en horas, calcular su equivalente en días, minutos y segundos
 
 - _p15_ConvertirADolares:
 Dada una cantidad en pesos y la cotización del dólar, se desea obtener el equivalente en dólares.
-<<<<<<< HEAD
 
 ## Actividad 4
 - _p16_TrabajandoEnteros:
@@ -68,6 +67,4 @@ Trabajando con flotantes.
 Trabajando con constantes.
 
 - _p19_TrabajandoCaracteres:
-Trabajando con caracteres
-=======
->>>>>>> 89a9dccabc8d93930c92cb391395cb18f12a25ad
+Trabajando con caracteres.
