@@ -33,7 +33,7 @@ Calcula las operaciones trigonometricas de un angulo en radianes.
 - _p09_DividirCifras:
 Divide un numero de 3 cifras en unidades, decenas y centenas.
 
-## Actividad 3 (Practica 1)
+## Practica 1
 - _p10_HipotenusaTriangulo:
 Se desea calcular la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados.
 
@@ -52,7 +52,7 @@ Dada una cantidad en horas, calcular su equivalente en días, minutos y segundos
 - _p15_ConvertirADolares:
 Dada una cantidad en pesos y la cotización del dólar, se desea obtener el equivalente en dólares.
 
-## Actividad 4
+## Actividad 3
 - _p16_TrabajandoEnteros:
 Trabajando con enteros.
 
@@ -67,3 +67,16 @@ Trabajando con caracteres.
 
 - _p20_ConversionTipos:
 Conversion entre tipos de datos en Java.
+
+## Actividad 4
+- _p21_VerificarNumero:
+Verificar si un número es negativo, positivo o cero.
+
+- _p22_VerificarSuma:
+Dados 3 numeros enteros positivos, verificar si la suma de los dos primeros es igual al tercero.
+
+- _p23_ConvertirTemperatura:
+Dada una temperatura, convertirla en grados Farenheit o grados centigrados segun lo que elija el usuario.
+
+- _p24_PagaTrabajadorv2:
+Calcula la paga de un trabajador, las horas extra se pagan al doble.
