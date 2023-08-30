@@ -80,3 +80,31 @@ Dada una temperatura, convertirla en grados Farenheit o grados centigrados segun
 
 - _p24_PagaTrabajadorv2:
 Calcula la paga de un trabajador, las horas extra se pagan al doble.
+
+##  Actividad 5
+
+- _p25_EstacionesAño:
+Muestra la estación del año que corresponde al número introducido.
+
+- _p26_TipoAngulo:
+Muestra el tipo de angulo según los grados.
+
+- _p27_AceptarEstudiante:
+Acepta a un estudiante en base a su edad y sus calificaciones.
+
+- _p28_LeyDeNewton:
+Calcula fuerza, masa, y aceleración de acuerdo a la segunda ley de Newton.
+
+## Actividad 6
+
+- _p29_Calculadora:
+Eligiendo dos numeros y un operador matematico, efectuar operación y mostrar resultados.
+
+- _p30_DiaSemana:
+Dado un numero entero entre 1 y 7, imprime el dia de la semana con letra.
+
+- _p31_NumerosRomanos:
+Convierte un numero entero a numero romano (del 1 al 10).
+
+- _p32_PagoEstacionamiento:
+Administra el pago por estacionamiento de acuerdo a la zona.
