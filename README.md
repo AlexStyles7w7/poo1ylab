@@ -108,3 +108,24 @@ Convierte un numero entero a numero romano (del 1 al 10).
 
 - _p32_PagoEstacionamiento:
 Administra el pago por estacionamiento de acuerdo a la zona.
+
+## Practica 2
+
+- _p33_NumerosConsecutivos:
+Dados tres números enteros, verificar si son consecutivos.
+
+- _p34_NumeroMayor:
+Dados tres números enteros, verificar cual es el mayor.
+
+- _p35_ContinentesMundo:
+Dado un número entero entre 1 y 6 que corresponde a un continente del mundo, escribir su nombre: 1 Asia, 2 África,
+3 América del Norte, 4 América del Sur, 5 Antártida, 6 Europa.
+
+- _p36_CompraPizza: 
+Un usuario puede elegir un tamaño de pizza para saber si tiene descuento.
+
+- _p37_CalculoNotas:
+Se desea calcular el promedio de 5 calificaciones introducidas por el usuario, luego evaluar el resultado.
+
+- _p38_AceptarEstudianteV2:
+Dado el nombre del estudiante, sexo (h/m), su edad y tres calificaciones, decidir si el estudiante es aceptado.
