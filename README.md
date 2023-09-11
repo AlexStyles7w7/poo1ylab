@@ -163,6 +163,19 @@ Imprime la conjetura de collatz para un número entero positivo.
 
 ## Practica 3
 
+- _p48_ImparesAscendente:
+imprimir los números impares de forma ascendente desde 1 hasta n.
+
+- _p49_ParesDescendente:
+imprimir los números pares desde 100 hasta n.
+
+- _p50_ConversionTemperaturas:
+calcular la temperatura convertida de grados centígrados a grados farenheit de un rango de valores
+introducidos por el usuario.
+
+- _p51_SerieFibonaci:
+imprimir los primeros n números de la será de fibbonaci.
+
 ## Actividad 9
 
 - _p52_Numeros1aN:
