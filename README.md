@@ -129,3 +129,53 @@ Se desea calcular el promedio de 5 calificaciones introducidas por el usuario, l
 
 - _p38_AceptarEstudianteV2:
 Dado el nombre del estudiante, sexo (h/m), su edad y tres calificaciones, decidir si el estudiante es aceptado.
+
+## Actividad 7
+
+- _p39_Numeros1a100:
+Imprime los números del 1 al 100 usando ciclo while.
+
+- _p40_Numeros100a1:
+Imprmir los numeros del 100 al 1 usando ciclo while.
+
+- _p41_ProcesaCalificaciones:
+Procesa n calificaciones, calcula la suma y el promedio.
+
+- _p42_TablaMultiplicar:
+Imprime la tabla de multiplicar que el usuario pida, desde 1 hasta n.
+
+- _p43_ConteoNumeros:
+Cuenta números: postivos, negativos, ceros, hasta introducir 999.
+
+## Actividad 8
+
+- _p44_ParesAscendente:
+Imprime numeros pares ascendente.
+
+- _p45_ImparesDescendente:
+Imprime numeros impares descendente.
+
+- _p46_TablaConversion:
+Imprime tabla de conversión de peso a dolar.
+
+- _p47_ConjeturaCollatz:
+Imprime la conjetura de collatz para un número entero positivo.
+
+## Practica 3
+
+## Actividad 9
+
+- _p52_Numeros1aN:
+Numeros de 1 a n con paso de p.
+
+- _p53_NumerosNa1:
+Numeros de n a 1 con paso de p.
+
+- _p54_ArribaAbajo:
+De 1 a n y de n a 1, según el usuario lo decida.
+
+- _p55_SumaParesImpares:
+Suma de pares e impares.
+
+- _p56_SumaPromedio:
+Suma y promedio de n calificaciones.
