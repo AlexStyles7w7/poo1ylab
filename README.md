@@ -192,3 +192,17 @@ Suma de pares e impares.
 
 - _p56_SumaPromedio:
 Suma y promedio de n calificaciones.
+
+## Actividad 10
+
+- _p57_TablasMultiplicar:
+Tablas de multiplicar con de 1 a n hasta la del n.
+
+- _p58_Piramide:
+Imprime una pirámide del caracter.
+
+- _p59_FactorialNumeros:
+Factorial de n números.
+
+- _p60_SumaTerminos:
+Suma de n términos de factorial.
