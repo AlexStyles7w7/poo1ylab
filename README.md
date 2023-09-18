@@ -206,3 +206,22 @@ Factorial de n números.
 
 - _p60_SumaTerminos:
 Suma de n términos de factorial.
+
+## Practica 4
+
+## Actividad 11
+
+- _p65_PromedioNumeros:
+Calcular el promedio de 3 numeros, usando una funcion.
+
+- _p66_ConversionTemperaturas:
+Conversion de temperaturas usando funciones.
+
+- _p67_SumaRango:
+Suma de un rango de numeros con funcion.
+
+- _p68_TablaMultiplicar:
+Imprime la tabla que el usuario pide, hasta donde la pida.
+
+- _p69_CalificacionLetra:
+Regresa una letra de acuerdo al promedio.
