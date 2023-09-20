@@ -225,3 +225,20 @@ Imprime la tabla que el usuario pide, hasta donde la pida.
 
 - _p69_CalificacionLetra:
 Regresa una letra de acuerdo al promedio.
+
+## Actividad 12
+
+- _p70_MayorTresNumeros:
+Calcula e imprime el mayor de 3 numeros, usando una funcion.
+
+- _p71_SumaDigitos:
+Suma los digitos individuales de un numero entero, usando una funcion.
+
+- _p72_SumaParesImpares:
+Suma pares o impares en un rango de valores, usando una funcion.
+
+- _p73_Factorial:
+Calcula e imprime el factorial de un número usando una funcion.
+
+- _p74_CuadroCaracter:
+Imprime un cuadro de r x c del caracter deseado, usando una funcion.
