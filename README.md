@@ -242,3 +242,20 @@ Calcula e imprime el factorial de un número usando una funcion.
 
 - _p74_CuadroCaracter:
 Imprime un cuadro de r x c del caracter deseado, usando una funcion.
+
+## Practica 5
+
+- _p75_NumeroMenor:
+Calcula e imprime el menor de 4 numeros, usando una funcion.
+
+- _p76_DiaSemana:
+Imprime un numero del 1 al 7 y dependiendo el numero te dara un dia de la semana, todo en funcion.
+
+- _p77_MedidasLongitud:
+Calcula e imprime la medida segun se pida en pulgadas o centimetros, usando una funcion.
+
+- _p78_SumaMultiplos:
+Suma de multiplos de 3 o multiplos de 4 en un rango, con funcion.
+
+- _p79_Angulo:
+Imprimir un angulo valido entre 0 y 360 grados e indicar que tipo de angulo es, usando funciones.
