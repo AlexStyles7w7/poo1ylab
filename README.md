@@ -259,3 +259,9 @@ Suma de multiplos de 3 o multiplos de 4 en un rango, con funcion.
 
 - _p79_Angulo:
 Imprimir un angulo valido entre 0 y 360 grados e indicar que tipo de angulo es, usando funciones.
+
+## Examen Parcial 1
+
+- _p80_PrimerExamenParcial:
+Una escuela ha organizado un curso de técnicas avanzadas de programación y desea llevar el control de la
+inscripción de los participantes y el dinero recaudado.
