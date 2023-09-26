@@ -265,3 +265,20 @@ Imprimir un angulo valido entre 0 y 360 grados e indicar que tipo de angulo es, 
 - _p80_PrimerExamenParcial:
 Una escuela ha organizado un curso de técnicas avanzadas de programación y desea llevar el control de la
 inscripción de los participantes y el dinero recaudado.
+
+## Actividad 13
+
+- _p81_InicializaArregloNumeros:
+Inicializar de forma manual un arreglo de numeros flotantes y lo imprima.
+
+- _p82_InicializaArregloCadenas:
+Inicializa de forma manual un arreglo de cadenas e imprime valores especificos.
+
+- _p83_InicializaNombresEdades:
+Inicializa al declarar dos arreglos, uno de nombres y otro de edades.
+
+- _p84_PromedioArregloCalificaciones:
+Leer un arreglo de n calificaciones flotantes, calcula la suma y el promedio.
+
+- _p85_NombresEdades:
+Introducir n nombres con su respectiva edad usando un arreglo, tambien calcula el promedio de edades.
