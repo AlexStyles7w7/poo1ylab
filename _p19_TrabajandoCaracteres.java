@@ -2,13 +2,14 @@
 
 public class _p19_TrabajandoCaracteres {
     public static void main(String[] args) {
-        Character c1 = 'A', c2 = 'B';
-        Character numero = '9';
-        Character arroba = '@';
-        Character pesos = 36;
-        Character corazon = '\u2665';
-        Character letraw = 119;
-        Character espacio = ' ';
+        char c1 = 'A';
+        char c2 = 'B';
+        char numero = '9';
+        char arroba = '@';
+        int pesos = 36;
+        char corazon = '\u2665';
+        int letraw = 119;
+        char espacio = ' ';
         
         System.out.print("\033[H\033[2J"); System.out.flush();
         System.out.println(c1);
