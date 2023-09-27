@@ -282,3 +282,17 @@ Leer un arreglo de n calificaciones flotantes, calcula la suma y el promedio.
 
 - _p85_NombresEdades:
 Introducir n nombres con su respectiva edad usando un arreglo, tambien calcula el promedio de edades.
+
+## Actividad 14
+
+- _p86_ArregloMostrar:
+Mostrar un arreglo usando una funcion, lo eleva al cuadrado usando una funcion.
+
+- _p87_ArregloTemperaturas:
+Calcula el mayor, el menor y busca un arreglo de numeros flotantes usando funciones.
+
+- _p88_Aleatorios:
+Genera numeros aleatorios.
+
+- _p89_ArregloAleatorios:
+Genera arreglos aleatorios y los suma.
