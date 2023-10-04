@@ -1,4 +1,4 @@
-//Imprimir la secuencia de términos armónicos el número de renglones
+// Imprimir la secuencia de términos armónicos el número de renglones
 
 import java.util.Scanner;
 
