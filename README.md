@@ -209,6 +209,18 @@ Suma de n términos de factorial.
 
 ## Practica 4
 
+- _p61_SecuenciaNumeros1:
+Imprimir la secuencia de números mostrados el número de renglones.
+
+- _p62_SecuenciaNumeros2:
+Imprimir la secuencia de números mostrados el número de renglones.
+
+- _p63_SumaTerminos1:
+Imprimir la secuencia de términos armónicos el número de renglones.
+
+- _p64_SumaTerminos2:
+Imprimir la secuencia de términos armónicos el número de renglones.
+
 ## Actividad 11
 
 - _p65_PromedioNumeros:
@@ -296,3 +308,27 @@ Genera numeros aleatorios.
 
 - _p89_ArregloAleatorios:
 Genera arreglos aleatorios y los suma.
+
+## Practica 6
+
+- _p90_Temperaturas:
+Declarar un arreglo de temperatura que muestre todos los elementos y convierta a 0 los mayores a 10.
+
+- _p91_MayoresPromedio:
+Elaborar un programa que permita calcular calificaciones y solo muestre las mayores al promedio.
+
+- _p92_MayorMenor:
+Imprimir una serie de numeros que se guarden en un arreglo y mostrar el mayor y el menor.
+
+- _p93_ParesImpares:
+En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
+
+## Actividad 15
+
+- _p94_Empleado01
+
+- _p95_Empleado02
+
+- _p96_Empleado03
+
+- _p97_Empleado04
