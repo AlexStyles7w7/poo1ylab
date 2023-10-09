@@ -332,3 +332,19 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 - _p96_Empleado03
 
 - _p97_Empleado04
+
+## Practica 7
+
+- _p98_Circulo
+
+- _p99_Rectangulo
+
+- _p100_Articulo
+
+## Actividad 16
+
+- _p101_TrabajoPersona
+
+- _p102_AutorLibro
+
+- _p103_ClienteFactura
