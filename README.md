@@ -348,3 +348,15 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 - _p102_AutorLibro
 
 - _p103_ClienteFactura
+
+## Practica 8
+
+- _p104_PuntoCirculo
+
+- _p105_PuntoTriangulo
+
+## Actividad 17
+
+- _p106_Persona
+
+- _p107_Forma 
