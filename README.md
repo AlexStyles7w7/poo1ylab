@@ -360,3 +360,21 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 - _p106_Persona
 
 - _p107_Forma 
+
+## Practica 9
+
+- _p108_Vehiculo
+
+- _109_FormaV2
+
+## Actividad 18
+
+- _p110_CuentaBancariaV1
+
+## Actividad 19
+
+- _p111_CuentaBancariaV2
+
+## Practica 10
+
+- _p112_ControlVentas
