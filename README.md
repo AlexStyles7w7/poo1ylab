@@ -378,3 +378,7 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 ## Practica 10
 
 - _p112_ControlVentas
+
+## Examen Parcial 2
+
+- _p113_SegundoExamenParcial
