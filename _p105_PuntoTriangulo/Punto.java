@@ -4,12 +4,15 @@ public class Punto {
     private int X;
     private int Y;
 
-    public Punto() {
+    public Punto(int i, int j, int k) {
     }
 
     public Punto(int x, int y) {
         this.X = x;
         this.Y = y;
+    }
+
+    public Punto(int i, int j, int k) {
     }
 
     public int getX() {
