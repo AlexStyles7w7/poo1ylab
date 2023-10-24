@@ -1,3 +1,4 @@
 *.class
 Character.java
 launch.json
+*.json
