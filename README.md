@@ -386,3 +386,9 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 ## Actividad 20
 
 - _p114_Animal
+
+- _p115_Telefono
+
+- _p116_Juego
+
+- _p117_FiguraGeometrica
