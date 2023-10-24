@@ -382,3 +382,7 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 ## Examen Parcial 2
 
 - _p113_SegundoExamenParcial
+
+## Actividad 20
+
+- _p114_Animal
