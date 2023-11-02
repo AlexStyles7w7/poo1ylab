@@ -418,3 +418,13 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 - _p126_Excepcion6
 
 - _p127_MiExcepcion
+
+## Practica 12
+
+- _p128_ExcepcionRaiz
+
+- _p129_ExcepcionDulces
+
+- _p130_ExcepcionEdades
+
+- _p131_ExcepcionTemperatura
