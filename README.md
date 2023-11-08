@@ -448,3 +448,11 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 - _p138_ArchivoMaterias
 
 - _p139_ArchivoEstudiante
+
+## Actividad 24
+
+- _p139_HolaMundoGUI
+
+- _p140_AreaTrianguloGUI
+
+- _p141_LeyDeNewtonGUI
