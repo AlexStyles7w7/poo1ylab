@@ -451,12 +451,22 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 
 ## Actividad 24
 
-- _p139_HolaMundoGUI
+- _p140_HolaMundoGUI
 
-- _p140_AreaTrianguloGUI
+- _p141_AreaTrianguloGUI
 
-- _p141_LeyDeNewtonGUI
+- _p142_LeyDeNewtonGUI
+
+## Practica 14
+
+- _p143_PagaTrabjador
+
+- _p144_Temperaturas
 
 ## Actividad 25
 
 - _p145_HolaMundoGUI_V1
+
+## Actividad 26
+
+- _p146_HolaMundoGUI_V2
