@@ -459,7 +459,7 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 
 ## Practica 14
 
-- _p143_PagaTrabjador
+- _p143_PagaTrabajador
 
 - _p144_Temperaturas
 
