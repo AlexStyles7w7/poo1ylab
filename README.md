@@ -470,3 +470,7 @@ En una serie de 100 numeros aleatorios entre 0 y 20, sumar pares e impares.
 ## Actividad 26
 
 - _p146_HolaMundoGUI_V2
+
+## Examen Parcial 3
+
+- _P147_TercerExamenParcial
